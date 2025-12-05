@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "目撃！テト31世",
+  "base_artist": "はろける",
+  "createdAt": "2025-12-05T10:54:19.581763Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "目撃!テト31世 (feat. 重音テト & 雨衣)",
+      "artist": "はろける",
+      "has_synced": false,
+      "path": "select/pl_01_目撃!テト31世_(feat._重音テト_&_雨衣)_はろける.txt"
+    }
+  ]
+}
